@@ -1,0 +1,5 @@
+numpy
+pygame
+sys
+tensorflow
+time
